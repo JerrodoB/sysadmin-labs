@@ -13,7 +13,7 @@ Install and configure Active Directory Domain Services on Windows Server 2025 to
 1. Launched **Server Manager**
 2. Added the **Active Directory Domain Services** role
 3. Promoted server to a **Domain Controller**
-4. Created a new forest: `corp.jerrodobutler.com`
+4. Created a new forest: `lab.local`
 5. Verified domain controller setup via:
    - Server Manager → AD DS health
    - `dsa.msc` (Active Directory Users and Computers)

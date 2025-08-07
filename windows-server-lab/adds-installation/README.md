@@ -29,4 +29,4 @@ The server now acts as a domain controller for `corp.jerrodobutler.com`, and wil
 ## Screenshots
 ![ADDS Tools dropdown](./images/adds-tools-dropdown.png)
 ![Domain Controller Verified](./images/domain-controller-ou.png)
-![DNS Verified](./images/ns-lookup-google.png)
+![DNS Verified](./images/nslookup-google.png)
